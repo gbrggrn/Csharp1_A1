@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gusta\\source\\repos\\C#A1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|c:\\users\\gusta\\source\\repos\\c#a1\\c#a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|solutionrelative:c#a1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|c:\\users\\gusta\\source\\repos\\c#a1\\c#a1\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|solutionrelative:c#a1\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|c:\\users\\gusta\\source\\repos\\c#a1\\c#a1\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|solutionrelative:c#a1\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|c:\\users\\gusta\\source\\repos\\c#a1\\c#a1\\vegetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|solutionrelative:c#a1\\vegetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|c:\\users\\gusta\\source\\repos\\c#a1\\c#a1\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|solutionrelative:c#a1\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|c:\\users\\gusta\\source\\repos\\c#a1\\c#a1\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|solutionrelative:c#a1\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|c:\\users\\gusta\\source\\repos\\c#a1\\c#a1\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA01CE0E-BA73-4813-A15A-EE974B8EAE91}|C#A1\\C#A1.csproj|solutionrelative:c#a1\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Program.cs",
+              "RelativeDocumentMoniker": "C#A1\\Program.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Program.cs",
+              "RelativeToolTip": "C#A1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:18:33.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Pet.cs",
+              "RelativeDocumentMoniker": "C#A1\\Pet.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Pet.cs",
+              "RelativeToolTip": "C#A1\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:19:04.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vegetables.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Vegetables.cs",
+              "RelativeDocumentMoniker": "C#A1\\Vegetables.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Vegetables.cs",
+              "RelativeToolTip": "C#A1\\Vegetables.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowGYAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:19:39.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Operations.cs",
+              "RelativeDocumentMoniker": "C#A1\\Operations.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Operations.cs",
+              "RelativeToolTip": "C#A1\\Operations.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowFoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:32:34.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Album.cs",
+              "RelativeDocumentMoniker": "C#A1\\Album.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\Album.cs",
+              "RelativeToolTip": "C#A1\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:19:30.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\InputValidation.cs",
+              "RelativeDocumentMoniker": "C#A1\\InputValidation.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\InputValidation.cs",
+              "RelativeToolTip": "C#A1\\InputValidation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:41:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketSeller.cs",
+              "DocumentMoniker": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\TicketSeller.cs",
+              "RelativeDocumentMoniker": "C#A1\\TicketSeller.cs",
+              "ToolTip": "C:\\Users\\gusta\\source\\repos\\C#A1\\C#A1\\TicketSeller.cs",
+              "RelativeToolTip": "C#A1\\TicketSeller.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:19:16.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
